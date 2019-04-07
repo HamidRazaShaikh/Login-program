@@ -1,0 +1,51 @@
+.label {
+  font-size: 40px;
+    font-style: normal;
+    color: blue;
+}
+
+.textbox {
+
+    font-size: 40px;
+    font-style: normal;
+    color: blue;
+    margin: 20px;
+    border: solid cornflowerblue ;
+    background-color: #bffff8;
+
+
+}
+
+#signup{
+    font-size: 30px;
+    font-style: normal;
+    color: #0d0606;
+    margin: 10px;
+    border: solid #eced58;
+    background-color: #a58767;
+
+
+}
+
+
+#login{
+    font-size: 30px;
+    font-style: normal;
+    color: #0d0606;
+    margin: 10px;
+    border: solid #eced58;
+    background-color: #a58767;
+}
+
+.Register {
+    border: solid crimson;
+    margin: 10px;
+}
+
+body{
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    bac
+
+}
